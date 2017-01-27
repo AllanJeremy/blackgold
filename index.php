@@ -31,14 +31,14 @@ Using today's pioneering technologies to solve problems and create value in toda
 <!--          About -->
           <div class="row">
             <div class="col s12 m8 push-m2">
-                <h4 class="center grey-text text-lighten-2 hide-on-small-only">Explore | <span class="amber-text">Dream</span> | Discover</h4> 
-                <h5 class="center grey-text text-lighten-2 hide-on-med-and-up">Explore | <span class="amber-text">Dream</span> | Discover</h5> 
+                <h4 class="center grey-text text-lighten-2 hide-on-small-only" style="font-weight:200">Explore | <span class="amber-text">Dream</span> | Discover</h4> 
+                <h5 class="center grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Explore | <span class="amber-text">Dream</span> | Discover</h5> 
                 
-                <h5 class="grey-text hide-on-small-only">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
+                <h5 class="grey-text hide-on-small-only" style="font-weight:200">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
 Using today's pioneering technologies to solve problems and create value in today's
  highly competitive inter-connected global market.</h5>
                 
-                <h6 class="grey-text hide-on-med-and-up">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
+                <h6 class="grey-text hide-on-med-and-up" style="font-weight:200">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
 Using today's pioneering technologies to solve problems and create value in today's
  highly competitive inter-connected global market.</h6>
             </div>
@@ -65,9 +65,9 @@ Using today's pioneering technologies to solve problems and create value in toda
                     <br class="hidden-on-small-only"><div class="divider grey darken-3 hide-on-small-only"></div>
                     
                     
-                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up">Email : <span class="grey-text">info@blackgoldventures.com</span></h6>
-                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up">Phone : <span class="grey-text">+123 456 772 112</span></h6>
-                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up">Office Location : <span class="grey-text">Some location,Kenya</span></h6>
+                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Email : <span class="grey-text">info@blackgoldventures.com</span></h6>
+                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Phone : <span class="grey-text">+123 456 772 112</span></h6>
+                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Office Location : <span class="grey-text">Some location,Kenya</span></h6>
               </div>
               <div class="col s12 m10 push-m1 l6 row" id="send_message">
                   <br class="hide-on-med-and-up"><div class="divider hide-on-med-and-up grey darken-3"></div><br class="hide-on-med-and-up">
