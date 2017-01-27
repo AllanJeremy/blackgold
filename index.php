@@ -56,13 +56,13 @@ Using today's pioneering technologies to solve problems and create value in toda
                     <h4 class="grey-text text-lighten-2 hide-on-large-only">Contact Info<span class="hide-on-small-only">rmation</span></h4>
                   
                     <h5 class="grey-text text-lighten-2 hide-on-small-only">Email  <br><small class="grey-text">info@blackgoldventures.com</small></h5>
-                    <br class="hidden-on-small-only"><div class="divider grey darken-3 hide-on-small-only"></div>
+                    <div class="divider grey darken-3 hide-on-small-only"></div>
                   
                     <h5 class="grey-text text-lighten-2 hide-on-small-only">Phone <br> <small class="grey-text">+123 456 772 112</small></h5>  
-                    <br class="hidden-on-small-only"><div class="divider grey darken-3 hide-on-small-only"></div>
+                    <div class="divider grey darken-3 hide-on-small-only"></div>
                   
                     <h5 class="grey-text text-lighten-2 hide-on-small-only">Office Locations  <br><small class="grey-text">Some location,Kenya</small></h5>
-                    <br class="hidden-on-small-only"><div class="divider grey darken-3 hide-on-small-only"></div>
+                    <div class="divider grey darken-3 hide-on-small-only"></div>
                     
                     
                     <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Email : <span class="grey-text">info@blackgoldventures.com</span></h6>
