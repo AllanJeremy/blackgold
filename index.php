@@ -20,8 +20,8 @@ Using today's pioneering technologies to solve problems and create value in toda
 
         <div class="parallax-container valign-wrapper" id="landing_img">
             <div class="container center">
-              <h2 class="valign center-aligned grey-text text-lighten-2 valign hide-on-small-only">BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE</h2>
-              <h5 class="valign center-aligned grey-text text-lighten-2 valign hide-on-med-and-up">BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE</h5>
+              <h2 class="valign center-aligned grey-text text-lighten-2 valign hide-on-small-only"><img class="bg-icon" src="media/globe.png"> BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE <img class="bg-icon" src="media/rocket.png"></h2>
+              <h5 class="valign center-aligned grey-text text-lighten-2 valign hide-on-med-and-up"><img class="bg-icon" src="media/globe.png"> BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE <img class="bg-icon" src="media/rocket.png"></h5>
             </div>
           <div class="parallax" >
               <img class="img-responsive" src="media/landing.jpg" alt="Blackgold Ventures Worldwide | Landing Image" width="100%"/>
