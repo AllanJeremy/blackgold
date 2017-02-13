@@ -20,8 +20,8 @@ Using today's pioneering technologies to solve problems and create value in toda
 
         <div class="parallax-container valign-wrapper" id="landing_img">
             <div class="container center">
-              <h2 class="valign center-aligned grey-text text-lighten-2 valign hide-on-small-only"><img class="bg-icon" src="media/globe.png"> BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE <img class="bg-icon" src="media/rocket.png"></h2>
-              <h5 class="valign center-aligned grey-text text-lighten-2 valign hide-on-med-and-up"><img class="bg-icon" src="media/globe.png"> BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE <img class="bg-icon" src="media/rocket.png"></h5>
+              <h2 class="valign center-aligned grey-text text-lighten-2 valign hide-on-small-only">BLACK <span class="amber-text">GOLD</span> VENTURES WORLDWIDE </h2>
+              <h5 class="valign center-aligned grey-text text-lighten-2 valign hide-on-med-and-up">BLACK<span class="amber-text">GOLD</span> VENTURES WORLDWIDE</h5>
             </div>
           <div class="parallax" >
               <img class="img-responsive" src="media/landing.jpg" alt="Blackgold Ventures Worldwide | Landing Image" width="100%"/>
@@ -31,8 +31,8 @@ Using today's pioneering technologies to solve problems and create value in toda
 <!--          About -->
           <div class="row">
             <div class="col s12 m8 push-m2">
-                <h4 class="center grey-text text-lighten-2 hide-on-small-only" style="font-weight:200">Explore | <span class="amber-text">Dream</span> | Discover</h4> 
-                <h5 class="center grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Explore | <span class="amber-text">Dream</span> | Discover</h5> 
+                <h4 class="center grey-text text-lighten-2 hide-on-small-only" style="font-weight:200"><img class="bg-icon" src="media/globe.png"><span class="amber-text">  Explore | <span class="amber-text">Dream</span> | Discover <img class="bg-icon" src="media/rocket.png"></h4> 
+                <h5 class="center grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200"><img class="bg-icon" src="media/globe.png"> Explore | <span class="amber-text">Dream</span> | Discover <img class="bg-icon" src="media/rocket.png"></h5> 
                 
                 <h5 class="grey-text hide-on-small-only" style="font-weight:200">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
 Using today's pioneering technologies to solve problems and create value in today's
