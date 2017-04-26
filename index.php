@@ -41,6 +41,14 @@ Using today's pioneering technologies to solve problems and create value in toda
                 <h6 class="grey-text hide-on-med-and-up" style="font-weight:200">BlackGold Ventures Worldwide is a venture company focused on leveraging technology and Innovative entrepreneurship
 Using today's pioneering technologies to solve problems and create value in today's
  highly competitive inter-connected global market.</h6>
+                    
+                <br><h4 class="grey-text">SERVICES</h4>
+                <ul class="grey-text">
+                    <li><p><big style="font-weight:200"><b>Drone technology</b> (for agriculture, security, internet expansion, GPS, infrastructure inspection, search &amp rescue, medical delivery in rural areas etc.</big></p></li>
+                    <li><p><big style="font-weight:200"><b>Renewable energy</b> (refining and reusing oil &amp gas waste to recerate new forms of gas that the government can resell)</big></p></li>
+                    <li><p><big style="font-weight:200"><b>Cybersecurity </b>(Currently 70% of Kenya business enterprises are vulnerable to cyber attacks. The ogovernment loses about Ksh 4 Billion per year. Finance sector ksh 3 Billion. etc.</big></p></li>
+                    <li><p><big style="font-weight:200"><b>3D printing </b>(for manufacturing purposes) </big></p></li>
+                </ul>
             </div>
           </div>
         <div class="parallax-container" id="corporate_img">
