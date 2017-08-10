@@ -44,9 +44,9 @@ Using today's pioneering technologies to solve problems and create value in toda
                     
                 <br><h4 class="grey-text">SERVICES</h4>
                 <ul class="grey-text">
-                    <li><p><big style="font-weight:200"><b>Drone technology</b> (for agriculture, security, internet expansion, GPS, infrastructure inspection, search &amp rescue, medical delivery in rural areas etc.</big></p></li>
-                    <li><p><big style="font-weight:200"><b>Renewable energy</b> (refining and reusing oil &amp gas waste to recerate new forms of gas that the government can resell)</big></p></li>
-                    <li><p><big style="font-weight:200"><b>Cybersecurity </b>(Currently 70% of Kenya business enterprises are vulnerable to cyber attacks. The ogovernment loses about Ksh 4 Billion per year. Finance sector ksh 3 Billion. etc.</big></p></li>
+                    <li><p><big style="font-weight:200"><b>Drone technology</b> (for agriculture, security, internet expansion, GPS, infrastructure inspection, search &amp rescue, medical delivery in rural areas etc.)</big></p></li>
+                    <li><p><big style="font-weight:200"><b>Renewable energy</b> (refining and reusing oil &amp gas waste to recreate new forms of gas that the government can resell)</big></p></li>
+                    <li><p><big style="font-weight:200"><b>Cybersecurity </b>(Cybercrime damages will cost the world $6 trillion annually by 2021. Up by $3 trillion in 2015. Cyber theft &amp cyber terrorism is the fastest growing crime in the world. Up to 200 billion IoT devices will need securing by 2020. By 2020 data volumes online will be 50 times greater than today)</big></p></li>
                     <li><p><big style="font-weight:200"><b>3D printing </b>(for manufacturing purposes) </big></p></li>
                 </ul>
             </div>
@@ -63,18 +63,18 @@ Using today's pioneering technologies to solve problems and create value in toda
                     <h3 class="grey-text text-lighten-2 hide-on-med-and-down">Contact Information</h3>
                     <h4 class="grey-text text-lighten-2 hide-on-large-only">Contact Info<span class="hide-on-small-only">rmation</span></h4>
                   
-                    <h5 class="grey-text text-lighten-2 hide-on-small-only">Email  <br><small class="grey-text">info@blackgoldventures.com</small></h5>
+                    <h5 class="grey-text text-lighten-2 hide-on-small-only">Email  <br><small class="grey-text">info@blackgoldsolutions.net</small></h5>
                     <div class="divider grey darken-3 hide-on-small-only"></div>
                   
-                    <h5 class="grey-text text-lighten-2 hide-on-small-only">Phone <br> <small class="grey-text">+123 456 772 112</small></h5>  
+                    <h5 class="grey-text text-lighten-2 hide-on-small-only">Phone <br> <small class="grey-text">+254 798 603 642</small></h5>  
                     <div class="divider grey darken-3 hide-on-small-only"></div>
                   
-                    <h5 class="grey-text text-lighten-2 hide-on-small-only">Office Locations  <br><small class="grey-text">Some location,Kenya</small></h5>
+                    <h5 class="grey-text text-lighten-2 hide">Office Locations  <br><small class="grey-text">Some location,Kenya</small></h5>
                     <div class="divider grey darken-3 hide-on-small-only"></div>
                     
                     
-                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Email : <span class="grey-text">info@blackgoldventures.com</span></h6>
-                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Phone : <span class="grey-text">+123 456 772 112</span></h6>
+                    <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Email : <span class="grey-text">info@blackgoldsolutions.net</span></h6>
+                    <h6 class="grey-text text-lighten-2 hide" style="font-weight:200">Phone : <span class="grey-text">+254 798 603 642</span></h6>
                     <h6 class="grey-text text-lighten-2 hide-on-med-and-up" style="font-weight:200">Office Location : <span class="grey-text">Some location,Kenya</span></h6>
               </div>
               <div class="col s12 m10 push-m1 l6 row" id="send_message">
@@ -113,8 +113,9 @@ Using today's pioneering technologies to solve problems and create value in toda
               </div>
           </div> 
           </div>
-
+        
           <div class="divider grey darken-3"></div>
+          </div>
       </main>
         
      <footer>
@@ -123,6 +124,7 @@ Using today's pioneering technologies to solve problems and create value in toda
      </footer>
       <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>
+          <script async defer src="https://hypothes.is/embed.js"></script>
 <script>
     $(document).ready(function(){
       $('.parallax').parallax();
